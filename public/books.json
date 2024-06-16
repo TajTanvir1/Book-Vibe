@@ -1,0 +1,80 @@
+[
+   {
+   "bookId": 1,
+   "bookName": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "image": "https://imgbb.host/images/2U9n9.png",
+   "review": "The Great Gatsby, penned by F. Scott Fitzgerald, is a mesmerizing portrayal of the Jazz Age in America. Set against the backdrop of opulence and extravagance, the novel follows the enigmatic Jay Gatsby and his pursuit of the elusive American Dream. Fitzgerald's prose is a symphony of vivid imagery and poignant reflection, drawing readers into a world of wealth, love, and disillusionment. Through the lens of narrator Nick Carraway, we are introduced to a cast of complex characters whose lives intersect in a whirlwind of parties and secrets.",
+   "totalPages": 180,
+   "rating": 4.5,
+   "category": "Classic Fiction",
+   "tags": ["Romance", "Tragedy"],
+   "publisher": "Scribner",
+   "yearOfPublishing": 1925
+   },
+   {
+   "bookId": 2,
+   "bookName": "To Kill a Mockingbird",
+   "author": "Harper Lee",
+   "image": "https://imgbb.host/images/2U4dK.png",
+   "review": "To Kill a Mockingbird, authored by Harper Lee, is a timeless masterpiece that transcends the boundaries of time and place. Set in the fictional town of Maycomb, Alabama, during the 1930s, the novel explores profound themes of racial injustice, moral growth, and empathy. Through the innocent eyes of Scout Finch, the young protagonist, readers witness the complexities of society and the human condition. Atticus Finch, Scout's father, emerges as a beacon of integrity and compassion, as he defends an innocent black man accused of raping a white woman. ",
+   "totalPages": 324,
+   "rating": 4.8,
+   "category": "Classic Fiction",
+   "tags": ["Social", "Drama"],
+   "publisher": "J. B. Lippincott & Co.",
+   "yearOfPublishing": 1960
+   },
+   {
+   "bookId": 3,
+   "bookName": "The 1984",
+   "author": "George Orwell",
+   "image": "https://imgbb.host/images/2UdQr.png",
+   "review": "George Orwell's 1984 is a chilling dystopian masterpiece that serves as a stark warning against the dangers of totalitarianism and government oppression. Set in a future world where individuality is suppressed and freedom is a distant memory, the novel follows Winston Smith, a low-ranking member of the ruling Party who dares to question the status quo. As Winston navigates a world of constant surveillance and thought control, he grapples with the crushing weight of conformity and the erosion of truth. Orwell's vision of a dystopian society governed by Big Brother is both haunting and prophetic, offering a harrowing glimpse into the darkest recesses of human nature.",
+   "totalPages": 328,
+   "rating": 4.7,
+   "category": "Dystopian Fiction",
+   "tags": ["Political", "Philosophical"],
+   "publisher": "Secker & Warburg",
+   "yearOfPublishing": 1949
+   },
+   {
+   "bookId": 4,
+   "bookName": "The Catcher in the Rye",
+   "author": "J.D. Salinger",
+   "image": "https://imgbb.host/images/2UAXe.png",
+   "review": "The Catcher in the Rye, penned by J.D. Salinger, is a timeless coming-of-age novel that continues to resonate with readers across generations. Narrated by the disillusioned teenager Holden Caulfield, the novel offers a raw and unfiltered portrayal of adolescent angst and alienation. As Holden embarks on a journey of self-discovery through the streets of New York City, he grapples with feelings of isolation and a profound sense of disillusionment with the adult world. Salinger's prose is both poignant and incisive, capturing the restless energy of youth with remarkable authenticity.",
+   "totalPages": 224,
+   "rating": 4.4,
+   "category": "Classic Fiction",
+   "tags": ["Identity", "Youth"],
+   "publisher": "Little, Brown and Company",
+   "yearOfPublishing": 1951
+   },
+   {
+   "bookId": 5,
+   "bookName": "Pride and Prejudice",
+   "author": "Jane Austen",
+   "image": "https://imgbb.host/images/2UyqQ.png",
+   "review": "Pride and Prejudice, written by Jane Austen, is a timeless romantic novel that continues to captivate readers with its wit, charm, and social commentary. Set in early 19th-century England, the novel follows the spirited Elizabeth Bennet as she navigates the complexities of love, class, and marriage in a society governed by strict social norms. Austen's sharp wit and keen observation of human nature shine through in her depiction of the Bennet family and their interactions with the wealthy and aloof Mr. Darcy. Pride and Prejudice is more than just a love story; it is a timeless exploration of the intricacies of human relationships and the power of self-awareness and growth. ",
+   "totalPages": 432,
+   "rating": 4.6,
+   "category": "Classic Fiction",
+   "tags": ["Romance", "Satire"],
+   "publisher": "T. Egerton, Whitehall",
+   "yearOfPublishing": 1813
+   },
+   {
+   "bookId": 6,
+   "bookName": "The Hobbit",
+   "author": "J.R.R. Tolkien",
+   "image": "https://imgbb.host/images/2Uzbx.png",
+   "review": "The Hobbit, penned by J.R.R. Tolkien, is a timeless fantasy adventure that continues to enchant readers of all ages. Set in the captivating world of Middle-earth, the novel follows the reluctant hero Bilbo Baggins on an epic quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. Tolkien's richly detailed universe is brought to life through his masterful storytelling and vivid imagination, immersing readers in a world teeming with mythical creatures, ancient lore, and epic battles. As Bilbo embarks on his journey alongside a band of dwarves and the wise wizard Gandalf.",
+   "totalPages": 310,
+   "rating": 4.9,
+   "category": "Fantasy Fiction",
+   "tags": ["Adventure", "Quest"],
+   "publisher": "George Allen & Unwin",
+   "yearOfPublishing": 1937
+   }
+   ]

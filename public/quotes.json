@@ -1,0 +1,142 @@
+[
+   {
+     "id": 1,
+     "bookName": "The Great Gatsby",
+     "author": "F. Scott Fitzgerald",
+     "quote": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+     "likes": 1500
+   },
+   {
+     "id": 2,
+     "bookName": "To Kill a Mockingbird",
+     "author": "Harper Lee",
+     "quote": "You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.",
+     "likes": 1800
+   },
+   {
+     "id": 3,
+     "bookName": "1984",
+     "author": "George Orwell",
+     "quote": "Big Brother is Watching You.",
+     "likes": 2100
+   },
+   {
+     "id": 4,
+     "bookName": "The Catcher in the Rye",
+     "author": "J.D. Salinger",
+     "quote": "Don't ever tell anybody anything. If you do, you start missing everybody.",
+     "likes": 1900
+   },
+   {
+     "id": 5,
+     "bookName": "Pride and Prejudice",
+     "author": "Jane Austen",
+     "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+     "likes": 2200
+   },
+   {
+     "id": 6,
+     "bookName": "The Hobbit",
+     "author": "J.R.R. Tolkien",
+     "quote": "In a hole in the ground there lived a hobbit.",
+     "likes": 2400
+   },
+   {
+     "id": 7,
+     "bookName": "The Great Gatsby",
+     "author": "F. Scott Fitzgerald",
+     "quote": "I hope she'll be a fool -- that's the best thing a girl can be in this world, a beautiful little fool.",
+     "likes": 1700
+   },
+   {
+     "id": 8,
+     "bookName": "To Kill a Mockingbird",
+     "author": "Harper Lee",
+     "quote": "The one thing that doesn't abide by majority rule is a person's conscience.",
+     "likes": 2000
+   },
+   {
+     "id": 9,
+     "bookName": "1984",
+     "author": "George Orwell",
+     "quote": "War is peace. Freedom is slavery. Ignorance is strength.",
+     "likes": 2300
+   },
+   {
+     "id": 10,
+     "bookName": "The Catcher in the Rye",
+     "author": "J.D. Salinger",
+     "quote": "I'm the most terrific liar you ever saw in your life.",
+     "likes": 1600
+   },
+   {
+     "id": 11,
+     "bookName": "Pride and Prejudice",
+     "author": "Jane Austen",
+     "quote": "I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.",
+     "likes": 2100
+   },
+   {
+     "id": 12,
+     "bookName": "The Hobbit",
+     "author": "J.R.R. Tolkien",
+     "quote": "There is nothing like looking, if you want to find something. You certainly usually find something, if you look, but it is not always quite the something you were after.",
+     "likes": 2500
+   },
+   {
+     "id": 13,
+     "bookName": "The Great Gatsby",
+     "author": "F. Scott Fitzgerald",
+     "quote": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
+     "likes": 1800
+   },
+   {
+     "id": 14,
+     "bookName": "To Kill a Mockingbird",
+     "author": "Harper Lee",
+     "quote": "You can't really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.",
+     "likes": 2200
+   },
+   {
+     "id": 15,
+     "bookName": "1984",
+     "author": "George Orwell",
+     "quote": "The choice for mankind lies between freedom and happiness and for the great bulk of mankind, happiness is better.",
+     "likes": 1900
+   },
+   {
+     "id": 16,
+     "bookName": "The Catcher in the Rye",
+     "author": "J.D. Salinger",
+     "quote": "All morons hate it when you call them a moron.",
+     "likes": 2100
+   },
+   {
+     "id": 17,
+     "bookName": "Pride and Prejudice",
+     "author": "Jane Austen",
+     "quote": "I could easily forgive his pride, if he had not mortified mine.",
+     "likes": 2300
+   },
+   {
+     "id": 18,
+     "bookName": "The Hobbit",
+     "author": "J.R.R. Tolkien",
+     "quote": "May the wind under your wings bear you where the sun sails and the moon walks.",
+     "likes": 2400
+   },
+   {
+     "id": 19,
+     "bookName": "The Great Gatsby",
+     "author": "F. Scott Fitzgerald",
+     "quote": "There are only the pursued, the pursuing, the busy and the tired.",
+     "likes": 2000
+   },
+   {
+     "id": 20,
+     "bookName": "To Kill a Mockingbird",
+     "author": "Harper Lee",
+     "quote": "The one thing that doesn't abide by majority rule is a person's conscience.",
+     "likes": 2100
+   }
+ ]
